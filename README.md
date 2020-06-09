@@ -8,7 +8,7 @@ Prettier config .json file where to centralized the standard.
 {
   "name": "my-cool-library",
   // ...
-  "prettier": "@your-name-here/prettier-config"
+  "prettier": "@juanaraneta/prettier-config"
   // ...
 }
 ```
